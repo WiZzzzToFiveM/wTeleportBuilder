@@ -4,9 +4,9 @@
 
 - Requirements:
 
-[es_extended](https://github.com/mitlight/es_extended)
+  [es_extended](https://github.com/mitlight/es_extended)
 
-[mysql-async](https://github.com/brouznouf/fivem-mysql-async)
+  [mysql-async](https://github.com/brouznouf/fivem-mysql-async)
 
 
 ```
