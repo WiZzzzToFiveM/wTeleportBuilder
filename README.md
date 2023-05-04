@@ -1,6 +1,6 @@
 # wTeleportBuilder
 
-- Mon serveur discord : https://discord.gg/MjfyGV2Gcn
+- Mon serveur discord : https://discord.gg/VM4EYbEt2A
 
 - Requirements:
 
